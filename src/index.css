@@ -27,7 +27,7 @@
     --muted: 210 20% 96%;
     --muted-foreground: 215 16% 47%;
 
-    --accent: 168 76% 36%;
+    --accent: 345 83% 41%;
     --accent-foreground: 0 0% 100%;
 
     --destructive: 0 84% 60%;
@@ -42,8 +42,8 @@
     /* Custom tokens */
     --surface: 210 25% 97%;
     --surface-hover: 210 20% 94%;
-    --hero-gradient-start: 210 30% 98%;
-    --hero-gradient-end: 200 25% 96%;
+    --hero-gradient-start: 30 40% 98%;
+    --hero-gradient-end: 40 30% 96%;
     --accent-glow: 168 76% 36%;
     --success: 160 60% 45%;
     --success-foreground: 0 0% 100%;
@@ -68,7 +68,7 @@
     --muted: 217 33% 17%;
     --muted-foreground: 215 20% 65%;
 
-    --accent: 168 76% 42%;
+    --accent: 345 83% 48%;
     --accent-foreground: 222 47% 11%;
 
     --destructive: 0 63% 31%;
