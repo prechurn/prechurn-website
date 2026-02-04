@@ -41,7 +41,7 @@ const HeroSection = () => {
             style={{ animationDelay: "300ms" }}
           >
             <Button 
-              variant="default" 
+              variant="accent" 
               size="xl"
               onClick={() => setIsModalOpen(true)}
             >
