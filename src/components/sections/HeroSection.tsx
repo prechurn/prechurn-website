@@ -41,7 +41,7 @@ const HeroSection = () => {
             style={{ animationDelay: "300ms" }}
           >
             <Button 
-              variant="hero" 
+              variant="default" 
               size="xl"
               onClick={() => setIsModalOpen(true)}
             >
@@ -49,7 +49,7 @@ const HeroSection = () => {
               <ArrowRight className="ml-1" />
             </Button>
             <Button 
-              variant="hero-secondary" 
+              variant="outline" 
               size="xl"
               onClick={() => {
                 document.getElementById("how-it-works")?.scrollIntoView({ behavior: "smooth" });
